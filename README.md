@@ -47,7 +47,6 @@
 
 ### ⚡ Technologies & Tools  
 
-<img align="right" height="120" alt="image" src="https://github.com/user-attachments/assets/ebdf8110-80ec-4054-b756-217796fc1538" />
 <img align="right" height="120" alt="image" src="https://github.com/user-attachments/assets/4299a3f3-35cc-4efa-9e74-23b1d8c251b4" />
 <img align="right" height="120" alt="image" src="https://github.com/user-attachments/assets/69cde36f-b622-426a-a19a-126e8f941707" />
 
