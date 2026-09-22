@@ -4,10 +4,11 @@
 
 ### Namastey, I'm Hemant Verma 🙏
 
-- 💻 Software Developer in progress, exploring **Full-Stack Web Development & System Design**  
-- 🚀 Building projects with **React, Node.js, and modern JavaScript frameworks**  
-- 🤖 Interested in **AI, Robotics, and Scalable Systems**  
-- 🔍 Passionate about solving real-world problems through **efficient code & automation**  
+💻 Systems & Software Developer | EE Undergrad at NIT Rourkela
+🚀 Building end-to-end applications with C++, Next.js, Node.js, and Distributed Databases
+🤖 Architecting at the intersection of Real-Time Embedded Systems, Predictive AI & Cloud Pipelines
+🔍 Focused on low-latency systems, database concurrency, and real-time data pipelines
+
 ---
 ### 🌐 Profiles  
 
