@@ -4,9 +4,9 @@
 
 ### Namastey, I'm Hemant Verma 🙏
 
-💻 Systems & Software Developer | EE Undergrad at NIT Rourkela
-🚀 Building end-to-end applications with C++, Next.js, Node.js, and Distributed Databases
-🤖 Architecting at the intersection of Real-Time Embedded Systems, Predictive AI & Cloud Pipelines
+💻 Systems & Software Developer | EE Undergrad at NIT Rourkela <br>
+🚀 Building end-to-end applications with C++, Next.js, Node.js, and Distributed Databases <br>
+🤖 Architecting at the intersection of Real-Time Embedded Systems, Predictive AI & Cloud Pipelines <br>
 🔍 Focused on low-latency systems, database concurrency, and real-time data pipelines
 
 ---
