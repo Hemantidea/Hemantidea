@@ -48,6 +48,8 @@
 
 <img align="right" height="120" alt="image" src="https://github.com/user-attachments/assets/ebdf8110-80ec-4054-b756-217796fc1538" />
 <img align="right" height="120" alt="image" src="https://github.com/user-attachments/assets/4299a3f3-35cc-4efa-9e74-23b1d8c251b4" />
+<img align="right" height="120" alt="image" src="https://github.com/user-attachments/assets/69cde36f-b622-426a-a19a-126e8f941707" />
+
 
 <table>
 <tr>
@@ -55,14 +57,22 @@
 
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)  
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)  
-![AutoCAD](https://img.shields.io/badge/-AutoCAD-0D1117?style=for-the-badge&logo=autodesk&logoColor=E51050)  
+![ROS2](https://img.shields.io/badge/-ROS2-0D1117?style=for-the-badge&logo=ros&logoColor=22314E)  
 
 </td>
 <td>
-
+  
 ![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![ROS2](https://img.shields.io/badge/-ROS2-0D1117?style=for-the-badge&logo=ros&logoColor=22314E)  
-![SolidWorks](https://img.shields.io/badge/-SolidWorks-0D1117?style=for-the-badge&logo=dassaultsystemes&logoColor=005386)  
+![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=white)  
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-0D1117?style=for-the-badge&logo=springboot&logoColor=6DB33F)  
+
+</td>
+<td>
+  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)  
+![Prisma](https://img.shields.io/badge/-Prisma-0D1117?style=for-the-badge&logo=prisma&logoColor=white) <br>
+![Hibernate](https://img.shields.io/badge/-Hibernate-0D1117?style=for-the-badge&logo=hibernate&logoColor=59666C)  
+
 
 </td>
 </tr>
@@ -81,48 +91,44 @@ console.log(hemant.join(" ➝ "));
 
 ---
 <div align="center">
-  <a href="https://iapss.vercel.app">
-    <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/7b10c62c-096f-434e-bf31-1fdbd5ce0b53" />
+  <a href="https://CandyShare.vercel.app">
+    <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/dca6fe14-0113-4a94-b1be-588f44ac8773" />
   </a>
 
 <h1 align="center">
   <!-- <img src="./client/src/assets/iapss-text.svg" alt="IAPSS" height="40" ; margin-bottom: -5px;">  -->
-  IAPSS is LIVE... 
+  CandyShare is LIVE... 
   <!-- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="35" style="vertical-align:middle"> -->
 </h1>
   
   <p align="center">
-    <strong>INTELLIGENT ACADEMIC PROBLEM-SOLVING SYSTEM</strong>
+    <strong>Simply Sweet P2P Sharing</strong>
   </p>
 
-### [Go to Website](https://iapss.vercel.app)
+### [Go to Website](https://CandyShare.vercel.app)
+
 
 ---
+
 <div align="center">
-  <a href="https://talkflow-iota.vercel.app/">
-<img width="83" height="80" alt="image" src="https://github.com/user-attachments/assets/a28467e1-1e12-4d1b-9476-2f494a170ff0" />
+  <a href="https://fixit-portal.vercel.app">
+    <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/ed1121e0-b3b7-422b-8e6e-da9208dd7911" />
   </a>
 
 <h1 align="center">
-  TalkFlow is LIVE...
+  <!-- <img src="./client/src/assets/iapss-text.svg" alt="IAPSS" height="40" ; margin-bottom: -5px;">  -->
+  fixIT is LIVE... 
+  <!-- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="35" style="vertical-align:middle"> -->
 </h1>
   
   <p align="center">
-    <strong>SECURE COMMUNICATION ARCHIVAL SYSTEM</strong>
+    <strong>Evaluate Your Knowledge Cleanly.</strong>
   </p>
 
-
-### [Explore TalkFlow](https://talkflow-iota.vercel.app/)
-</div>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/🚧%20TalkFlow%20is%20currently-Under%20Maintenance-red?style=for-the-badge" />
-
-</div>
+### [Go to Website](https://fixit-portal.vercel.app)
 
 ---
 
 <div align="center">
-  <p>Designed and Engineered with ❤️ by <strong><a href="https://www.linkedin.com/in/hemant-verma-ind/">Hemant Verma</a></strong></p>
+  <p>Designed and Engineered by <strong><a href="https://www.linkedin.com/in/hemant-verma-ind/">Hemant Verma</a></strong></p>
 </div>
